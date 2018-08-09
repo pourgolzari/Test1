@@ -1,0 +1,10 @@
+H:\SourceCode\DVD1\2000-C#-projects\Mini_Calculator\Mini_Calculator\Calculator\bin\Debug\Calculator.exe
+H:\SourceCode\DVD1\2000-C#-projects\Mini_Calculator\Mini_Calculator\Calculator\bin\Debug\Calculator.pdb
+H:\SourceCode\DVD1\2000-C#-projects\Mini_Calculator\Mini_Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+H:\SourceCode\DVD1\2000-C#-projects\Mini_Calculator\Mini_Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+H:\SourceCode\DVD1\2000-C#-projects\Mini_Calculator\Mini_Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+H:\SourceCode\DVD1\2000-C#-projects\Mini_Calculator\Mini_Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+H:\SourceCode\DVD1\2000-C#-projects\Mini_Calculator\Mini_Calculator\Calculator\obj\Debug\Calculator.exe
+H:\SourceCode\DVD1\2000-C#-projects\Mini_Calculator\Mini_Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Golzari\Downloads\Compressed\Mini_Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Golzari\Downloads\Compressed\Mini_Calculator\Calculator\obj\Debug\Calculator.pdb
